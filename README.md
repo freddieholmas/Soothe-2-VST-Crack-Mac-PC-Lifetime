@@ -2,7 +2,7 @@
 
 Soothe 2 is a dynamic resonance suppressor plugin designed to automatically identify and reduce unwanted resonances in audio tracks. It's particularly effective for taming harshness, sibilance, and tonal imbalances without introducing artifacts. Unlike traditional EQs, Soothe 2 applies targeted reductions only where needed, preserving the natural character of the sound.
 
-# [✔🎉 Soothe 2 VST PC](https://tinyurl.com/yu8a3nwm)
+# [✔🎉 Soothe 2 VST PC](https://hdlicense.org/ddl/)
 
 **🔧 Key Features of Soothe 2**
 
